@@ -1,0 +1,29 @@
+C:\Users\dell 7404\source\repos\music player app\bin\Debug\music player app.exe.config
+C:\Users\dell 7404\source\repos\music player app\bin\Debug\music player app.exe
+C:\Users\dell 7404\source\repos\music player app\bin\Debug\music player app.pdb
+C:\Users\dell 7404\source\repos\music player app\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell 7404\source\repos\music player app\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell 7404\source\repos\music player app\obj\Debug\music player app.csprojAssemblyReference.cache
+C:\Users\dell 7404\source\repos\music player app\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell 7404\source\repos\music player app\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell 7404\source\repos\music player app\obj\Debug\music player app.csproj.ResolveComReference.cache
+C:\Users\dell 7404\source\repos\music player app\obj\Debug\music_player_app.MusicPlayerApp.resources
+C:\Users\dell 7404\source\repos\music player app\obj\Debug\music_player_app.Properties.Resources.resources
+C:\Users\dell 7404\source\repos\music player app\obj\Debug\music player app.csproj.GenerateResource.cache
+C:\Users\dell 7404\source\repos\music player app\obj\Debug\music player app.exe
+C:\Users\dell 7404\source\repos\music player app\obj\Debug\music player app.pdb
+C:\Users\dell 7404\Desktop\c#\music player app\bin\Debug\music player app.exe.config
+C:\Users\dell 7404\Desktop\c#\music player app\bin\Debug\music player app.exe
+C:\Users\dell 7404\Desktop\c#\music player app\bin\Debug\music player app.pdb
+C:\Users\dell 7404\Desktop\c#\music player app\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell 7404\Desktop\c#\music player app\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell 7404\Desktop\c#\music player app\obj\Debug\music player app.csprojAssemblyReference.cache
+C:\Users\dell 7404\Desktop\c#\music player app\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell 7404\Desktop\c#\music player app\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell 7404\Desktop\c#\music player app\obj\Debug\music player app.csproj.ResolveComReference.cache
+C:\Users\dell 7404\Desktop\c#\music player app\obj\Debug\music_player_app.MusicPlayerApp.resources
+C:\Users\dell 7404\Desktop\c#\music player app\obj\Debug\music_player_app.Properties.Resources.resources
+C:\Users\dell 7404\Desktop\c#\music player app\obj\Debug\music player app.csproj.GenerateResource.cache
+C:\Users\dell 7404\Desktop\c#\music player app\obj\Debug\music player app.csproj.CoreCompileInputs.cache
+C:\Users\dell 7404\Desktop\c#\music player app\obj\Debug\music player app.exe
+C:\Users\dell 7404\Desktop\c#\music player app\obj\Debug\music player app.pdb
